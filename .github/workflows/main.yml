@@ -45,8 +45,3 @@ name: Start Ngrok TCP Tunnel
       
 name: Keep Runner Alive for 6 Hours
       run: sleep 21600  # 6 hours in seconds
-========================= VPS INFO =========================
-🔗 SSH Command: ssh root@ -p 
-🔑 Password: password
-🕓 This VPS will stay alive for 6 hours unless manually cancelled.
-===========================================================
